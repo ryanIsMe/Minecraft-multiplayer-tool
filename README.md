@@ -12,7 +12,7 @@ Download file cần cài [tại đây](https://drive.google.com/file/d/1zmwKE2Qn
 - **Đối với Dropbox** : tạo tài khoản xong vô dropbox tạo thư mục tên mà hồi nãy cấu hình trên rclone (lưu ý ghi đúng từng chữ hoa thường)
 - **Đối với playit** : chạy app có tên là dạng playit.exe trong file cần cài đặt sau đó vào tìm kiếm search *%appdata%"*vào folder tên *playit* copy file *config.json* gửi cho bạn bè
 
-Sau khi bạn bè của các bạn có 1 folder tên *.config* và 1 file*config.json* thì làm theo các bước sau : 
+Sau khi bạn bè của các bạn có 1 folder tên *.config* và 1 file *config.json* thì làm theo các bước sau : 
 - Cần tải file cần cài ở phía trên
 - Giải nén và chạy app có tên là dạng *playit.exe* 
 - Đăng nhập vào dropbox với acc bạn của bạn cung cấp
