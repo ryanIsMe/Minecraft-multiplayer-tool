@@ -10,7 +10,7 @@ Download file cần cài [tại đây](https://drive.google.com/file/d/1zmwKE2Qn
 Để tool này hoạt động bạn cần một người cấu hình rclone,dropbox và playit
 - **Đối với rclone** : tạo tài khoản dropbox sau đó lên mạng search [cách cấu hình rclone và dropbox](https://news.cloud365.vn/huong-dan-cau-hinh-rclone-ket-noi-voi-dropbox/ "cách cấu hình rclone và dropbox"). Nếu cấu hình đúng vào đường dẫn *"C:\Users"* gồm các folder là tên username của bạn và 1 folder tên *Public*. Sau đó vào các folder là tên username của bạn copy folder tên *.config* gửi cho bạn bè
 - **Đối với Dropbox** : tạo tài khoản xong vô dropbox tạo thư mục tên mà hồi nãy cấu hình trên rclone (lưu ý ghi đúng từng chữ hoa thường)
-- **Đối với playit** : chạy app có tên là dạng playit.exe trong file cần cài đặt sau đó vào tìm kiếm search *%appdata%"*vào folder tên *playit* copy file *config.json* gửi cho bạn bè
+- **Đối với playit** : chạy app có tên là dạng playit.exe trong file cần cài đặt sau đó vào tìm kiếm search *%appdata%* vào folder tên *playit* copy file *config.json* gửi cho bạn bè
 
 Sau khi bạn bè của các bạn có 1 folder tên *.config* và 1 file *config.json* thì làm theo các bước sau : 
 - Cần tải file cần cài ở phía trên
