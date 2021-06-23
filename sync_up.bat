@@ -7,4 +7,3 @@ echo FINISH !
 echo UPLOADING FILE - DO NOT TURN OFF!
 rclone --tpslimit 5 copy "%~dp0\Server" Minecraft_server:Minecraft
 echo FINISH !
-pause
