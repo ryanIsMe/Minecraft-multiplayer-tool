@@ -1,4 +1,4 @@
-# Minecraft Multiplayer Tool Beta
+# Minecraft Multiplayer Tool v1.0
 Sử dụng Dropbox, Rclone, playit
 ## 1. Giới thiệu 
 Nếu bạn không có đủ tiền để thuê server thì việc tự host rồi sau đó port-forwarding để chia sẽ cho bạn bè cùng join thì rất bình thường. Nhưng việc đó thường xảy ra vấn đề là mỗi lần bạn của bạn muốn chơi thì phải nhờ bạn mở server và không phải khi nào bạn cũng rãnh và máy cũng mở 24/24. Do đó Minecraft Multiplayer Tool ra đời giúp bạn xử lí vấn đề trên.
