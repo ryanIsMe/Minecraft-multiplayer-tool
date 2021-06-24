@@ -6,6 +6,7 @@ Nếu bạn không có đủ tiền để thuê server thì việc tự host r�
 Tool này giúp đồng bộ server minecraft của bạn lên máy tính của từng thành viên trong nhóm (với số lượng thành viên ít) để mỗi lần người đó muốn chơi không cần nhờ bạn host server 
 Tool sử dụng Dropbox làm nơi chứa server sau đó mỗi lần bạn muốn chơi tool sẽ download file server mới nhất (bằng rclone) rồi bắt đầu host server như bình thường sau đó port-forwarding bằng playit. Sau khi bạn tắt server thì máy sẽ up file server đó lên.
 ## 3.Cách cài đặt
+Download [tại đây](https://drive.google.com/file/d/1aymVv3_8iVDseuyQI7bzpgQSF6G9m-Hd/view?usp=sharing "tại đây")
 Xem hướng dẫn [tại đây](https://drive.google.com/file/d/1O2GCD0swAhA2l5zxMNjDMDK9quAMZxJu/view?usp=sharing "tại đây")
 #### Lưu Ý 
 - Chỉ phù hợp cho Windows
