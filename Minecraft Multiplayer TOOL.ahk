@@ -56,14 +56,14 @@ Start_server:
 	return
 
 Turn_off:
-	ifwinexist, Minecraft Server
+	ifwinexist, ahk_class ConsoleWindowClass ahk_exe cmd.exe
 	{
-		winhide, Minecraft Server
+		winhide, ahk_class ConsoleWindowClass ahk_exe cmd.exe
 	}
 	else 
-		IfWinNotActive, Minecraft Server
+		IfWinNotActive, ahk_class ConsoleWindowClass ahk_exe cmd.exe
 		{
-			winshow, Minecraft Server
+			winshow, ahk_class ConsoleWindowClass ahk_exe cmd.exe
 		}
 	
 	return
