@@ -14,6 +14,7 @@ Download [tại đây](https://drive.google.com/file/d/1aymVv3_8iVDseuyQI7bzpgQS
 Xem hướng dẫn [tại đây](https://drive.google.com/file/d/1O2GCD0swAhA2l5zxMNjDMDK9quAMZxJu/view?usp=sharing "tại đây")
 #### Lưu Ý 
 - Chỉ phù hợp cho Windows
+- Để start server cần bỏ file jar vào thư mục Server để khởi tạo server (phải đặt tên là *server.jar*) 
 - Trang web bật lên trong quá trình run server có chứa đường link bên dưới là link để vào server. (Link có dạng ABC.auto.playit.gg)
 - Để tránh tình trạng bị xung đột server thì mỗi lần muốn chơi vào game coi vào server được không mới chạy file *Minecraft Multiplayer TOOL.exe*
 - File java chạy server cần được đặt bỏ vào thư mục server và đặt tên server.jar
